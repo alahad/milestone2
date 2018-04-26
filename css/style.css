@@ -1,0 +1,45 @@
+body{
+	background-color:teal; margin:0; padding:0; font-family:Time and Roman;
+}
+.nav{
+    width:100%; background:#00316b; display:inline-block; 
+}
+.ul{
+	width:80%; margin:auto; padding:0px; list-style:none;
+}
+ul li{
+	float:left;
+	width:200px;
+	height:40px;
+	list-style:none;	
+	display:inline-block;
+	padding:20px;
+	opacity:.8;
+	line-height:40px;
+	font-size:20px;
+	text-align:center;
+}
+ul li a:hover{
+	background:#e91e63;
+}
+ul li a {
+	color:white;
+	text-decoration:none;
+	display:block;
+}	
+ul li ul li{
+    display:none;
+}   
+}   
+ul li:hover ul li{
+   display:block;
+}    
+
+   background-color: 	
+	
+    
+	
+	
+	
+   	
+ 	
